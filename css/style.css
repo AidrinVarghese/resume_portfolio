@@ -1,0 +1,325 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto+Condensed:ital,wght@0,400;0,700;1,600&family=Roboto:ital,wght@0,100;1,100&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+letter-spacing: 2px;
+
+}
+.body{
+    margin:0px;
+    
+ }   
+
+.main_container{
+    display: flex;
+    background-color: rgb(241, 238, 238);    
+    height: 100vh;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-decoration: none;
+    width: 900px;
+    height: 1345px;
+    position: static;
+    
+}
+.left_column2{
+    background-color: rgb(37, 37, 37);
+    margin-top: -4px;   
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    padding-left: 20px;
+    padding-top:20px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;    
+}
+
+.left_column2_content2{
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: -25px;
+    line-height: 30px;
+    text-align: left;
+    font-size: 13px;
+}
+ul{
+    list-style: none;
+}
+
+hr{
+    border-width: 1px;
+    border-color: gold;
+}
+.left_column3{
+    background-color: rgb(37, 37, 37);
+    margin-top: -15px;
+    padding-top: 40px;
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    padding-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px; 
+}
+.left_column3_content3{
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: -25px;
+    line-height: 30px;
+    text-align: left;
+    font-size: 13px;
+    font-weight: 600;
+    padding-top: 10px;
+    
+
+}
+.content1{
+    font-weight: 50;    
+}
+.left_column4{
+    background-color: rgb(37, 37, 37);
+    margin-top: -16px; 
+    padding-bottom: 120px;
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    padding-left: 30px;
+    padding-top:20px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+}
+.profile_name{
+    background-color: gold;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    width: 570px;
+    height: 120px;
+    padding-left: 60px;
+    padding-top : 30px;
+    font-size: 40px;
+}
+.right_section1{
+    margin-top: 60px;   
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px; 
+   
+
+}
+.name1{
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    line-height: 10px;
+    
+}
+.name2{
+    line-height: -10px;
+    font-weight: 10;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+}
+
+.about_me{
+    padding-left: 8px;
+    padding-top: 5px;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 15px;
+    padding: right 20px;
+}
+
+.right_section2{
+    padding-left: 40px;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    margin-bottom: 10%;
+
+
+}
+.hr2{
+    border-width: 1px;
+    border-color: black;
+    margin-right: 45px;
+}
+
+.hr3{
+    border-width: 1px;
+    margin-left: 45px;
+    border-color: black;
+    margin-right: 45px;
+}
+
+
+.work_experience{
+    padding-left: 50px;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.right_section3{
+    padding-left: 40px;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    display :flex;
+}    
+
+
+.dataone {
+    display : flex;
+}
+
+.year1 {
+    flex : 1;
+    padding-left: 30px;
+    padding-top: 40px;
+    font-weight: 600;
+
+}
+
+.pos1 {
+    flex : 2;
+    padding-top :40px;
+    padding-left: 60px;
+   margin-right: 40px;
+}
+.c1{
+    font-weight: 600;
+    font-size: 17px;
+}
+.name3{
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.name4{
+    font-size: 12px;
+}
+.datatwo {
+    display : flex;
+}
+
+.right_section4{
+    margin-top: 60px;   
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 40px;
+}
+.software_skills{
+    
+    flex : 1;
+    display : inline-block;
+    
+}
+
+.behaviour-skills {
+    flex : 1;
+    padding-right : 80px;
+    margin-right : 80px;
+
+}
+
+.box{
+    height: 20px;
+    width: 30px;
+    background-color: orange;
+    margin-left: -70px;
+}
+.contact{
+
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 40px;
+    margin-top: -10px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.medium{
+    display: flex;
+    align-items: center;
+    padding:0;
+    margin-bottom: 0;
+    width: 100%;
+    
+}
+.medium p{
+    margin-left: -0px;
+    padding-bottom: 0;
+    height: 20px;
+    background-color: rgba(128, 128, 128, 0.281);
+    width: 240px;
+    
+}
+.contact-info{
+    padding: 5px;
+    margin: 5px;
+    margin-top: -10px;
+    font-size: 15px;
+    
+}
+
+.skill { 
+    background-image: linear-gradient(to right,grey,rgb(0, 0, 0));
+    color: white; 
+    padding: 0.5%; 
+    
+    border-radius: 5px;
+}
+.c { 
+    width: 30%; 
+    height: 1px;
+
+  }
+  .java{
+    width: 20%;
+    height: 1px;
+}
+
+  .html {
+  width: 30%;
+  height: 1px; 
+
+} 
+
+.p11{
+    font-size: 10px;
+} 
+  
+.main-skills {
+    display : flex;
+}
